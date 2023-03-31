@@ -12,19 +12,4 @@ hello Leon! hello Git!
 hello Leon! hello Git!
 hello Leon! hello Git!
 hello Leon! hello Git!
-hello Leon! hello Git!
-hello Leon! hello Git!
-hello Leon! hello Git!
-hello Leon! hello Git!
-hello Leon! hello Git!
-hello Leon! hello Git!
-hello Leon! hello Git!
-hello Leon! hello Git!
-hello Leon! hello Git!
-hello Leon! hello Git!
-hello Leon! hello Git!
-hello Leon! hello Git!
-hello Leon! hello Git!
-hello Leon! hello Git!
-hello Leon! hello Git!
-hello Leon! hello Git!
+hello Leon! hello Git!hot-fix change
